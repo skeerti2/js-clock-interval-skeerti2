@@ -7,13 +7,13 @@ position: absolute;
 }
 
 #hour {
-  position: relative;
+  /*position: relative;*/
 }
 
 #minute {
-  position: relative;
+  /*position: relative;*/
 }
 #second {
   /*transform:rotate(+45deg);*/
-  position:relative;
+  /*position:relative;*/
 }
